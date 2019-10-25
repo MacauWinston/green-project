@@ -1,0 +1,30 @@
+.backgroundColor {
+    background-color:#AFEEEE;
+  }
+
+.login{
+    text-align:center;
+}
+
+.login_button{
+    position:relative;
+    right:18.5%;
+}
+.checkbox{
+    position:absolute;
+    top:47.5%;
+    right:18.5%;
+}
+
+.forget{
+    position:relative;
+    right:18.5%
+}
+.register{
+    position:absolute;
+    top:87.5%;
+    right:19.5%;
+}
+.box{
+    margin:0 auto;
+}

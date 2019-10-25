@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import {} from '../../actions';
 
-// import AppJSX from './AppJSX';
+import AppJSX from './AppJSX';
 
 class App extends Component {
     componentDidMount () {}
@@ -11,8 +11,8 @@ class App extends Component {
     render() {
         return (
             <div className="App">
-                {/* <AppJSX /> */}
-                <p>Hello World!</p>
+                <AppJSX />
+                {/* <p>Hello World!</p> */}
             </div>
         );
     }
@@ -22,7 +22,7 @@ function mapStateToProps () {
     return {};
 }
 
-function mapDispatchToProps (dispatch) {
+function mapDispatchToProps () {
     return {};
 }
 

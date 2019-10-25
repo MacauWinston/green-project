@@ -46,5 +46,9 @@
     "bulma": "^0.7.5",
     "node-sass": "^4.12.0",
     "redux-devtools": "^3.5.0"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/MacauWinston/green-project.git",
+  "author": "MeasureChan <525199355@qq.com>",
+  "license": "MIT"
 }
