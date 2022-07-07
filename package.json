@@ -7,7 +7,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "@fortawesome/react-fontawesome": "^0.1.6",
     "immutability-helper": "^3.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-redux": "^7.1.1",
